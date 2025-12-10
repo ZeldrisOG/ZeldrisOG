@@ -32,3 +32,4 @@ I use 🐉 **Kali Linux** btw
 - Improving my **programming** to write custom scripts and automation tools  
 
 ---
+blog - soon
