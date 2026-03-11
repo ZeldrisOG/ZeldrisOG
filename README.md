@@ -1,6 +1,6 @@
 # Hi, I'm Zeldris!
 
-2025 Nov 29
+last edited 3/11/2026
 
 Hi I love computers and learning about new technologies, check out my projects 👋
 
