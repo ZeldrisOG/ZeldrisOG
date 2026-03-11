@@ -25,11 +25,11 @@ Hi I love computers and learning about new technologies, check out my projects �
 
 ---
 
-## 🔍 Interests
-- Learning new methods for exploiting both **Linux** and **Windows** machines  
-- Solving **more complex boxes** that require deeper enumeration & privilege escalation  
-- Studying **assembly** to reverse engineer binaries  
-- Improving my **programming** to write custom scripts and automation tools  
+## 🔍 things im working on
+- Working on my online Portfolio 
+- learning C programming language
+- upload 5 C projects to my github 
+- get a certificate from CS50 computer science
+- Complete my C programming beginners textbook 
 
----
-blog - soon
+
