@@ -3,6 +3,8 @@
 2025 Nov 29
 
 Hi I love computers and learning about new technologies, check out my projects 👋
+
+ 
  🐉 **Kali Linux**
 
 ---
