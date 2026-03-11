@@ -5,7 +5,7 @@
 Hi! I like to learn about computers, run exploits, and explore programming.  
 I'm tracking my cybersecurity progress through **TryHackMe**, and later aiming for my **OSCP**.
 
-I use 🐉 **Kali Linux** btw
+ 🐉 **Kali Linux**
 
 ---
 
