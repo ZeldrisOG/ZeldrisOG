@@ -26,10 +26,6 @@ Hi I love computers and learning about new technologies, check out my projects ğ
 ---
 
 ## ğŸ” things im working on
-- Working on my online Portfolio 
-- learning C programming language
-- upload 5 C projects to my github 
-- get a certificate from CS50 computer science
-- Complete my C programming beginners textbook 
+- Learning C programming
 
 
