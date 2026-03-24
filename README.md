@@ -27,5 +27,6 @@ Hi I love computers and learning about new technologies, check out my projects ğ
 
 ## ğŸ” things im working on
 - Learning C programming
+- uploading a new project everyday
 
 
