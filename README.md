@@ -4,7 +4,7 @@ last edited 5/8/2026
 
 Introduction: Hello Currently I am studying C and I've been enjoying coding on linux with C programming, I enjoy coding on linux more than windows and I want to learn what else I can do in C on linux 
 
-Goals: My goals currently are studying computer science and continue studying C by doing projects because I feel confident enough in my programming skill where I dont need another tutorial to progress just coding more projects will better my skills
+Goals: My goals currently are studying computer science and continue studying C by doing projects because I feel confident enough in my programming skill where I dont need another tutorial to progress just coding more projects will better my skills, I want to learn assembly too
  
  🐉 **Kali Linux**
 
@@ -29,5 +29,6 @@ Goals: My goals currently are studying computer science and continue studying C 
 ## 🔍 things im working on
 -  Linux projects in C
 - Computer Science
+- assembly
 
 
