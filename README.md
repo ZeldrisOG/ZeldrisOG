@@ -27,7 +27,7 @@ Goals: My goals currently are studying computer science and continue studying C 
 ---
 
 ## 🔍 things im working on
-- Learning C programming
-- uploading a new project everyday
+-  Linux projects in C
+- Computer Science
 
 
